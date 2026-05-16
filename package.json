@@ -1,0 +1,9 @@
+{
+  "name": "facturapp-la-catalana-v31",
+  "version": "31.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}
